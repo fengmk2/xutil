@@ -1,8 +1,10 @@
 {
   "name": "xutil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "xutil",
-  "keywords": ["util"],
+  "keywords": [
+    "util"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -17,12 +19,12 @@
     "rimraf": "~2.5.0"
   },
   "devDependencies": {
-    "co-mocha": "*",
-    "mocha": "*",
-    "should": "*",
-    "jshint": "*",
+    "co-mocha": "^1.1.3",
     "istanbul": "*",
-    "pre-commit": "1.1.1"
+    "jshint": "*",
+    "mocha": "*",
+    "pre-commit": "^1.1.3",
+    "should": "*"
   },
   "scripts": {
     "test": "make test",
