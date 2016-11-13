@@ -1,6 +1,6 @@
 {
   "name": "xutil",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "xutil",
   "keywords": [
     "util"
@@ -11,6 +11,7 @@
     "url": "git://github.com/xudafeng/xutil.git"
   },
   "dependencies": {
+    "detect-port": "^1.0.5",
     "ipv4": "0.0.4",
     "lodash": "~3.10.1",
     "mkdirp": "~0.5.1",
