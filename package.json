@@ -1,6 +1,6 @@
 {
   "name": "xutil",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "xutil",
   "keywords": [
     "util"
@@ -17,7 +17,7 @@
     "mkdirp": "~0.5.1",
     "moment": "~2.10.6",
     "rimraf": "~2.5.0",
-    "uuid": "^3.0.0"
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
     "co-mocha": "^1.1.3",
