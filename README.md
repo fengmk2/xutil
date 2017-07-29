@@ -17,16 +17,14 @@
 [download-image]: https://img.shields.io/npm/dm/xutil.svg?style=flat-square
 [download-url]: https://npmjs.org/package/xutil
 
-> xutil
+> utils
 
 ## Installment
 
-```shell
+``` bash
 $ npm i xutil --save
 ```
 
 ## License
 
 The MIT License (MIT)
-
-Copyright (c) 2015 xdf
