@@ -1,6 +1,6 @@
 {
   "name": "xutil",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "xutil",
   "keywords": [
     "util"
@@ -15,7 +15,7 @@
     "ipv4": "^1.0.1",
     "lodash": "^4.17.4",
     "mkdirp": "~0.5.1",
-    "moment": "~2.10.6",
+    "moment": "~2.18.1",
     "rimraf": "~2.5.0",
     "uuid": "^3.1.0"
   },
