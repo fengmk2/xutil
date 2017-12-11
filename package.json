@@ -1,6 +1,6 @@
 {
   "name": "xutil",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "xutil",
   "keywords": [
     "util"
@@ -11,12 +11,16 @@
     "url": "git://github.com/xudafeng/xutil.git"
   },
   "dependencies": {
-    "detect-port": "^1.2.1",
+    "chalk": "^2.3.0",
+    "detect-port": "^1.2.2",
     "ipv4": "^1.0.1",
     "lodash": "^4.17.4",
     "mkdirp": "~0.5.1",
     "moment": "~2.18.1",
-    "rimraf": "~2.5.0",
+    "opn": "^5.1.0",
+    "rimraf": "^2.5.4",
+    "semver": "^5.4.1",
+    "shelljs": "^0.7.8",
     "uuid": "^3.1.0"
   },
   "devDependencies": {
