@@ -1,10 +1,11 @@
 'use strict';
 
-var _ = require('..');
+const _ = require('..');
+const assert = require('assert');
 
 describe('test', function() {
   it('base', function() {
-    _.ipv4.should.be.ok();
-    _.uuid().should.be.ok();
+    assert.ok(_.ipv4);
+    assert.ok(_.uuid());
   });
 });
